@@ -6,7 +6,8 @@ For Sentiment Analysis (NLP) TextBlob library is used:<br>
 	pip install -U text blob<br>
 
 ### Project Motivation
-For this project, I have used the Airbnb Seattle Data (2009-2016) from Kaggle to better understand:<br>
+For this project, I have used the Airbnb Seattle Data (2009-2016) from Kaggle to better understand<br>
+Some of the Business Understanding questions which I aim to find using this dataset:
 1.Which cities in Seattle provide the highest listings.<br>
 2.What kind of properties are available in Seattle listings with a relatively high price and instant bookings.<br>
 3.How does the host deal with cancellation policies from customers?<br>
@@ -15,7 +16,7 @@ For this project, I have used the Airbnb Seattle Data (2009-2016) from Kaggle to
 The full set of files related to this is available on kaggle. <br>
 
 ### File Descriptions
-There are 3 notebooks available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.<br>
+There is final_code.ipynb notebook available here to showcase work related to the above questions. Notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.<br>
 
 ### Results
 The main findings of the code can be found in the post available <a href = "https://medium.com/@jainpranjal4444/how-to-break-the-ice-with-datasets-and-then-leverage-their-friendship-to-gain-useful-insights-c1301030f1c4">here</a>
